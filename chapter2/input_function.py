@@ -1,0 +1,6 @@
+a = input("enter your name :")
+b = input('enter your age :')
+b = int(b)  # COVERT B TO AN INTEGER(if possible)
+print(a,b)
+print(type(a))
+print(type(b))
